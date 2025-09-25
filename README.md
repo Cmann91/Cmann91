@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>2D MMO RPG (Unity, JS)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>2D MMO RPG Group Project(Unity, JS)</b>
+  - [IRIS](https://github.com/AlexandraLHeureuxECE/final-project-iris)
 - <b>2D Atari Asteroid Game (HTML, JS) </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Portfolio Website (HTML, CSS, JS) </b>
