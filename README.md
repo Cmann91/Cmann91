@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>2D MMO RPG Group Project(Unity, JS)</b>
+- <b>2D MMO RPG Group Project(Unity, CS)</b>
   - [IRIS](https://github.com/AlexandraLHeureuxECE/final-project-iris)
 - <b>2D Atari Asteroid Game (HTML, JS) </b>
   - [Atari Asteroids](https://github.com/Cmann91/Asteroids-Project)
