@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Semantic Book recommender(Python, LangChain, OpenAI, Gradio)</b>
+  - [Book Recommender](https://github.com/Cmann91/book-recommender)
 - <b>2D MMO RPG Group Project(Unity, CS)</b>
   - [IRIS](https://github.com/AlexandraLHeureuxECE/final-project-iris)
 - <b>Project Planning Website (Js, React) </b>
